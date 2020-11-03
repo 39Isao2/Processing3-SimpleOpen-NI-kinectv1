@@ -25,3 +25,10 @@ README.mdの通りにライブラリにいれる
 12 SKEL_RIGHT_KNEE<br>
 13 SKEL_LEFT_FOOT<br>
 14 SKEL_RIGHT_FOOT<br>
+
+
+
+<br>
+色々参考
+
+http://denki.nara-edu.ac.jp/~yabu/soft/processing.html#17
