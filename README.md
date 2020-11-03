@@ -1,6 +1,7 @@
 # Processing3-SimpleOpen-NI-kinectv1
 Processing3 + SimpleOpen NI + kinectv1で  骨格検知 &amp; 距離はかる
 
+## メモ
 
 ここからSimpleOpenni落とす
 https://github.com/totovr/SimpleOpenni/tree/Processing_3.3.6
